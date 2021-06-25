@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm Carlos Gallo and I'm a civil enginner specialized in logistics and transportation and multiclassed into a DEV.
+I'm **Carlos Gallo** 🐓 and I'm a **civil enginner** 👷🏽 specialized in logistics and transportation 🚠 and multiclassed into a **DEV** 👨🏽‍💻 .
 
-🔭 I’m currently working on a ecommerce APP using React Native 
+🔭 I’m currently working as a developer on a ecommerce APP using *React Native*
+
 <!--
 **carlosgallo0/carlosgallo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm **Carlos Gallo** 🐓 <br />
+#### I'm **Carlos Gallo** 🐓 <br />
 I'm a **civil enginner** 👷🏽 specialized in *logistics and transportation* 🚠 <br />
 and multiclassed into a <br />
-#### **DEV** 👨🏽‍💻 .
+**DEV** 👨🏽‍💻 .
 
 🔭 I’m currently working as a developer on a ecommerce APP using *React Native*  ⚛️ 
 
-🪁 I'm passioned about leanding new languages, traveling across the globe and meeting new people
+🪁 I'm passioned about leaning new languages, traveling across the globe 🌎 and meeting new people 👋
 
 📱 Feel free to reach me in [Linkedin](https://www.linkedin.com/in/carlosalbertogallo/)
 

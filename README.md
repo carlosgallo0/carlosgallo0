@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm **Carlos Gallo** 🐓 and I'm a **civil enginner** 👷🏽 specialized in logistics and transportation 🚠 and multiclassed into a **DEV** 👨🏽‍💻 .
+I'm **Carlos Gallo** 🐓
+and I'm a **civil enginner** 👷🏽 specialized in logistics and transportation 🚠
+and multiclassed into a #### **DEV** 👨🏽‍💻 .
 
 🔭 I’m currently working as a developer on a ecommerce APP using *React Native*
 

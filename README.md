@@ -1,17 +1,22 @@
 ## Hi there 👋
 
 ### I'm **Carlos Gallo** 🐓 <br />
-I'm a **civil engineer** 👷🏽 specialized in *logistics and transportation* 🚠 <br />
-and multiclassed into a **DEV** 👨🏽‍💻 .
 
-🔭 I’m currently working as a developer on a ecommerce APP using *React Native* and *Flutter* ⚛️ 
+> I'm a **civil engineer** 👷🏽 specialized in *logistics and transportation* 🚠 <br />
+> and multiclassed into a **DEV** 👨🏽‍💻 .
 
-🪁 I'm passioned about leaning new languages, traveling across the globe 🌎 and meeting new people 👋
+#### 🔭 I build charming (and mostly 🛒 e-commerce) Apps using 🐦 *Flutter*  and ⚛️ *React Native*
 
-📱 Feel free to reach me in [Linkedin](https://www.linkedin.com/in/carlosalbertogallo/)
+#### 🪁 I'm passioned about leaning new languages, traveling across the globe 🌎 and meeting new people 👋
+
+####  📱 Feel free to reach me in [Linkedin](https://www.linkedin.com/in/carlosalbertogallo/)
 
 
+* My current focus is enhancing my Flutter Skills 📶
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68342326/138197855-43b2b1c2-97c8-4d2a-91b8-57c28296d29d.png"/>
+</p>
 <!--
 **carlosgallo0/carlosgallo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
